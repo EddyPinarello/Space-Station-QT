@@ -1,0 +1,3 @@
+ID: 234526, Name: Temp-04, Type: Temperature, Description: Tempetatura Cabina di pilotaggio
+ID: 556432, Name: Geig-01, Type: Geiger, Description: Radiazioni porta principale
+ID: 137809, Name: Press-03, Type: Pressure, Description: Pressione cabina
